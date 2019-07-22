@@ -1,2 +1,8 @@
 # Jetbrain
 .idea/
+
+# Demo testing SVG and CSS animation
+*.html
+
+# Exception to my resume
+!index.html
